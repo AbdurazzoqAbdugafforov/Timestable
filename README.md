@@ -1,16 +1,5 @@
-# timestable
+# timestable  
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/AbdurazzoqAbdugafforov/Timestable/assets/134942447/39f7475f-6c39-4565-8bbb-c7092cb82ed4" height = "600" width = "250">
+<img src = "https://github.com/AbdurazzoqAbdugafforov/Timestable/assets/134942447/382a4596-bcae-4bc4-b90d-a3a58163720e" height  = "600" width = "250">
